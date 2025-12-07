@@ -1,0 +1,15 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+*.test
+*.out
+vendor/
+go.work
+.env
+.vscode/
+.idea/
+*.swp
+.DS_Store
